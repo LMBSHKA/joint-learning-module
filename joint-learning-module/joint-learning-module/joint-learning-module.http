@@ -1,0 +1,6 @@
+@joint_learning_module_HostAddress = http://localhost:5042
+
+GET {{joint_learning_module_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

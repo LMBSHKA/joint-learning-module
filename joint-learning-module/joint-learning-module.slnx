@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Application/Application.csproj" />
+  <Project Path="Data/Data.csproj" />
+  <Project Path="joint-learning-module/joint-learning-module.csproj" />
+  <Project Path="Models/Models.csproj" />
+</Solution>
